@@ -2,7 +2,7 @@
 
 ## Description
 
-This Magisk module provides a statically linked and stripped `sqlite3` binary for ARM armv7a devices.
+This Magisk module provides a statically linked and stripped `sqlite3` binary for ARM v7a devices.
 
 ## Changelog
 
